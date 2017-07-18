@@ -6,3 +6,5 @@ Partially based on Hou and Yu's work.
 A single layer network of gaussians.
 
 ![image](centers_and_variances.png)
+
+Uses Adam for gradient descent.
